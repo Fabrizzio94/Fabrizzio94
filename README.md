@@ -2,7 +2,7 @@
 [![Website Badge](https://img.shields.io/badge/-Fabrizzio-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://fabrizzioportfolio.herokuapp.com/portfolio)](https://fabrizzioportfolio.herokuapp.com/portfolio)
 [![Linkedin Badge](https://img.shields.io/badge/-Fabricio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonny-fabricio-chamba-l%C3%B3pez/)](https://www.linkedin.com/in/jhonny-fabricio-chamba-l%C3%B3pez/)
 [![Twitter Badge](https://img.shields.io/badge/-@jhonny_fabri-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jhonny_fabri)](https://twitter.com/jhonny_fabri)
-[![Facebook Badge](https://img.shields.io/badge/-Fabricio Chamba-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://www.facebook.com/fabricio.chamba)](https://www.facebook.com/fabricio.chamba)
+[![Facebook Badge](https://img.shields.io/badge/-Fabricio_Chamba-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://www.facebook.com/fabricio.chamba)](https://www.facebook.com/fabricio.chamba)
 [![Gmail Badge](https://img.shields.io/badge/-fabrizziochamba-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fabrizziochamba@gmail.com)](mailto:fabrizziochamba@gmail.com)
 <!--
 **Fabrizzio94/Fabrizzio94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
